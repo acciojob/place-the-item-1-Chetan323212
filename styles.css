@@ -5,25 +5,28 @@
 	display:flex;
 	justify-content:space-between;
 	align-items:center;
+	flex-wrap: wrap;
+	width: 100vh;
+    height: 200px;
 	
 }
 
 .item1{
-	height:100px;
-	width:100px;
+	height:200px;
+	width:200px;
 	background-color:red;
 }
 
 .item2{
-	height:100px;
-	width:100px;
+	height:200px;
+	width:200px;
 	background-color:blue;
 }
 
 
 .item3{
-	height:100px;
-	width:100px;
+	height:200px;
+	width:200px;
 	background-color:green;
 }
 
