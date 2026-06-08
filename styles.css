@@ -1,2 +1,67 @@
 
 /* Your CSS Code here. */
+
+.holder{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	
+}
+
+.item1{
+	height:100px;
+	width:100px;
+	background-color:red;
+}
+
+.item2{
+	height:100px;
+	width:100px;
+	background-color:blue;
+}
+
+
+.item3{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+
+
+.item3{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+
+
+.item4{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+
+.item4{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+
+.item5{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+
+
+.item6{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+
+.item7{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
